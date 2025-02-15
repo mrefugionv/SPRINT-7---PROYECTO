@@ -4,7 +4,7 @@ import streamlit as st
 
 st.header('Proyecto Sprint 7')
 
-car_data = pd.read_csv('C:/Users/cucum/OneDrive/Documentos/.PY/SPRINT-7---PROYECTO/vehicles_us.csv')  # leer los datos
+car_data = pd.read_csv('vehicles_us.csv')  # leer los datos
 
 hist_button = st.button('Construir histograma')  # crear un botón
 
