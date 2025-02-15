@@ -1,5 +1,4 @@
 # SPRINT-7---PROYECTO
-
-# LA APPLICACION CONTINEN:
-# UN BOTON QUE , AL PRESIONALO, CONSTRUYE UN HISTOGRAMA DE ACUERDO A LA CANTIDAD DE COCHES QUE HAN RECORRIDO CIERTA CANTIDAD DE KILOMETROS MARCADOS EN EL "ODOMETER"
-# UNA CASILLA QUE, AL VERIFICARLA, CONSTRULLE UNA GRAFICA DE DISPERSIÓN CON LA RELACION DEL PRECIO DE LOS COCHES Y LOS KILOMETROS RECORRIDOS (ODOMETER).
+La aplicación contiene:
+Un boton que, al presionarlo, construye un histograma de acuerdo a la cantidad de coches que han recorrido cierta cantidad de kilometros marcados en el "odometer".
+Una casilla que, al verificarla, construye una gráfica de dispersión con la relación del precio de los coches y los kilómetros recorridos (odometer).
