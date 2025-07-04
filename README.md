@@ -1,6 +1,5 @@
 # S7 -- Herramientas de Software
-Construir y desplegar un panel de control de una aplicación web en un servicio en la nube. En este proyecto, te proporcionamos un conjunto de datos de anuncios de venta de coches
-
+Construir y desplegar un panel de control de una aplicación web en un servicio en la nube. En este proyecto, te proporcionamos un conjunto de datos de anuncios de venta de coches.
 ## Descripción
 Enlace a la aplicación web:
 https://sprint-7-proyecto.onrender.com/
